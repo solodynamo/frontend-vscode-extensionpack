@@ -20,7 +20,7 @@ These are some of my favorite extensions to make frontend development easier and
 * [Debugger For Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 * [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 * [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
-* [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense) - a plugin that autocompletes npm modules in import statements
+* [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 * [Indent Rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
 * [Intellisense For CSS Class Names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
@@ -29,3 +29,7 @@ These are some of my favorite extensions to make frontend development easier and
 * [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 * [Style Lint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 * [VS Code Flow IDE](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide)
+
+## Relevant Links
+* [Github](https://github.com/solodynamo/frontend-vscode-extensionpack)
+* [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=solodynamo.frontend-vscode-extensionpack)
