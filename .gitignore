@@ -1,0 +1,7 @@
+.vscode
+*.vsix
+
+### OSX ###
+*.DS_Store
+.AppleDouble
+.LSOverride

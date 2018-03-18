@@ -1,0 +1,48 @@
+{
+  "name": "frontend-vscode-extensionpack",
+  "version": "0.0.1",
+  "description": "Collection of essential vscode extension for front-end development",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solodynamo/frontend-vscode-extensionpack.git"
+  },
+  "keywords": [
+    "frontend",
+    "vscode",
+    "extension"
+  ],
+  "displayName": "Frontend VS Code Extension Pack",
+  "galleryBanner": {
+    "color": "#E0E3DA",
+    "theme": "dark"
+  },
+  "icon": "logo.png",
+  "categories": ["Extension Packs"],
+  "engines": {
+    "vscode": "^1.14.0"
+  },
+  "extensionDependencies": [
+    "formulahendry.auto-close-tag",
+    "kevinkyang.auto-comment-blocks",
+    "naumovs.color-highlight",
+    "msjsdiag.debugger-for-chrome",
+    "dbaeumer.vscode-eslint",
+    "flowtype.flow-for-vscode",
+    "wix.vscode-import-cost",
+    "oderwat.indent-rainbow",
+    "Zignd.html-css-class-completion",
+    "christian-kohler.npm-intellisense",
+    "christian-kohler.path-intellisense",
+    "esbenp.prettier-vscode",
+    "2gua.rainbow-brackets",
+    "shinnn.stylelint",
+    "gcazaciuc.vscode-flow-ide"
+  ]
+}
+  "publisher": "solodynamo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/solodynamo/frontend-vscode-extensionpack/issues"
+  },
+  "homepage": "https://github.com/solodynamo/frontend-vscode-extensionpack#readme"
+}
