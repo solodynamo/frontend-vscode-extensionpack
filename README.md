@@ -19,6 +19,7 @@ These are some of my favorite extensions to make frontend development easier and
 * [Color Highlight](https://marketplace.visualstudio.com/items?itemName=naumovs.color-highlight)
 * [Debugger For Chrome](https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome)
 * [ES Lint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+* [TSLint](https://marketplace.visualstudio.com/items?itemName=eg2.tslint)
 * [Flow Language Support](https://marketplace.visualstudio.com/items?itemName=flowtype.flow-for-vscode)
 * [NPM Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.npm-intellisense)
 * [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
@@ -29,6 +30,10 @@ These are some of my favorite extensions to make frontend development easier and
 * [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
 * [Style Lint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 * [VS Code Flow IDE](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide)
+* [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
+* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
+* [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
+* [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 
 ## Relevant Links
 * [Github](https://github.com/solodynamo/frontend-vscode-extensionpack)
