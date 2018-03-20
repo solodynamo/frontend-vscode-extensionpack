@@ -31,8 +31,6 @@ These are some of my favorite extensions to make frontend development easier and
 * [Style Lint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 * [VS Code Flow IDE](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide)
 * [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)
-* [JavaScript (ES6) code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets)
-* [jQuery Code Snippets](https://marketplace.visualstudio.com/items?itemName=donjayamanne.jquerysnippets)
 * [Regex Previewer](https://marketplace.visualstudio.com/items?itemName=chrmarti.regex)
 
 ## Relevant Links
