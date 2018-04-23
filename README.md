@@ -34,7 +34,7 @@ These are some of my favorite extensions to make frontend development easier and
 * [Intellisense For CSS Class Names](https://marketplace.visualstudio.com/items?itemName=Zignd.html-css-class-completion)
 * [Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-* [Rainbow Brackets](https://marketplace.visualstudio.com/items?itemName=2gua.rainbow-brackets)
+* [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 * [Style Lint](https://marketplace.visualstudio.com/items?itemName=shinnn.stylelint)
 * [VS Code Flow IDE](https://marketplace.visualstudio.com/items?itemName=gcazaciuc.vscode-flow-ide)
 * [Document This](https://marketplace.visualstudio.com/items?itemName=joelday.docthis)

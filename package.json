@@ -38,7 +38,7 @@
     "christian-kohler.npm-intellisense",
     "christian-kohler.path-intellisense",
     "esbenp.prettier-vscode",
-    "2gua.rainbow-brackets",
+    "CoenraadS.bracket-pair-colorizer",
     "shinnn.stylelint",
     "gcazaciuc.vscode-flow-ide",
     "joelday.docthis",
