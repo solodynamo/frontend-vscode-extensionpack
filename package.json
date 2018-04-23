@@ -1,7 +1,7 @@
 {
   "name": "frontend-vscode-extensionpack",
   "publisher": "solodynamo",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Collection of essential vscode extension for front-end development",
   "repository": {
     "type": "git",
